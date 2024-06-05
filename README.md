@@ -8,3 +8,4 @@ BTW, It's highly recommended clicking the link toward Colab in any ipynb to read
 - [together.ai](https://www.together.ai/)
 - [Gemini](https://ai.google.dev/gemini-api)
 - [OpenAI](https://openai.com/index/openai-api/) (& AOAI)
+- [Anthropic](https://console.anthropic.com/) (Claude)
